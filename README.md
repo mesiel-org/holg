@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mesiel-org/holg/actions/workflows/cd.yml"><img src="https://github.com/mesiel-org/holg/actions/workflows/cd.yml/badge.svg" alt="Build"/></a>
+  <a href="https://github.com/mesiel-org/holg/actions/workflows/ci.yml"><img src="https://github.com/mesiel-org/holg/actions/workflows/ci.yml/badge.svg" alt="ci"/></a>
   <a href="https://github.com/mesiel-org/holg/releases"><img src="https://img.shields.io/github/v/release/mesiel-org/holg" alt="Latest Release"/></a>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/license-GPLv3-blue" alt="License"/></a>
 </p>
 
 
