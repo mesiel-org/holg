@@ -5,7 +5,7 @@
 <h1 align="center">HOLG</h1>
 
 <p align="center">
-  <strong>HOLG</strong> is a command-line tool that collects your headers and sources into a single header-only C/C++ library. It deduplicates includes, strips redundant guards, and ensures C++ compatibility by wrapping implementations with extern "C" when needed.</br>
+A command-line tool that collects your headers and sources into a single header-only C/C++ library. It deduplicates includes, strips redundant guards, and ensures C++ compatibility by wrapping implementations with extern "C" when needed.</br>
   Part of the <a href="https://github.com/mesiel-org">Mesiel Project</a>.
 </p>
 
