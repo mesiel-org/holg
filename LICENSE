@@ -1,0 +1,135 @@
+                    MESIEL GENERAL LICENSE
+                       Version 1.0, 2025
+
+ Copyright (c) 2025 Mesiel Project Authors. All rights reserved.
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                           Preamble
+
+  The Mesiel General License (MGL) is designed to guarantee your
+freedom to share and change all versions of a program—to make sure
+it remains free software for all its users. “Free software” here
+refers to freedom, not price. Our licenses are intended to ensure
+that you have the freedom to distribute copies, modify the source
+code, and share those modifications with the community, while
+ensuring that all such versions remain free for everyone.
+
+  To protect your rights, we need to prevent others from denying
+you these rights or asking you to surrender them. Therefore, if
+you distribute copies of such a program, or if you modify it, you
+are responsible for passing on the same freedoms to others.
+
+  We protect your rights with two steps: (1) copyright on the
+software, and (2) this license, which requires you to make source
+code available, keep this license intact, and distribute
+derivatives under the same license.
+
+  Every user is given the same rights: to use, modify, and share.
+As a result, every contribution remains part of a shared commons
+of software knowledge. We call this the Mesiel General License.
+
+                      TERMS AND CONDITIONS
+
+  0. Definitions.
+  "Program" refers to any work licensed under this License.
+  "You" refers to licensees who exercise rights under this License.
+  "Derivative Work" means any modification, translation,
+  adaptation, or other change to the Program.
+
+  1. Source Code.
+  The "source code" means the preferred form of the work for
+  making modifications to it. Any distribution of binaries must
+  include access to the source code of the Program and any
+  modifications made to it.
+
+  2. Copying and Distribution.
+  You may copy and distribute verbatim copies of the Program’s
+  source code as you receive it, in any medium, provided that
+  you conspicuously and appropriately publish on each copy an
+  appropriate copyright notice and disclaimer of warranty; keep
+  intact all the notices that refer to this License; and give any
+  other recipients a copy of this License along with the Program.
+
+  3. Modification and Derivative Works.
+  You may modify your copy or copies of the Program, or any
+  portion of it, thus forming a work based on the Program, and
+  distribute such modifications or work under the terms of
+  Section 2 above, provided that you also meet all of these
+  conditions:
+    a) The modified work must carry prominent notices stating
+       that you changed it and the date of the change.
+    b) The modified work must be licensed, as a whole, at no
+       charge to all third parties under the terms of this License.
+    c) If the modified work is distributed in binary form,
+       you must make the modified source code available under
+       the same conditions as the original Program.
+
+  4. Redistribution in Binary Form.
+  You may distribute the Program in object code or executable form
+  under the terms of Sections 2 and 3, provided that you also
+  do one of the following:
+    a) Accompany it with the complete corresponding source code; or
+    b) Make the source code publicly available in a reasonable way.
+
+  5. Integrity of The License.
+  You may not apply any additional restrictions beyond those in
+  this License. You may not sublicense the Program.
+
+  6. Attribution.
+  You must clearly attribute the Program to the “Mesiel Project”
+  in any public distribution.
+
+  7. Acceptance.
+  By using, copying, modifying, or distributing the Program, you
+  indicate your acceptance of this License.
+
+  8. No Warranty.
+  THE PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+  EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+  THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+  PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL
+  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+  DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+  TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+  WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+
+  9. Future Versions of the MGL.
+  The Mesiel Project may publish revised or new versions of
+  the Mesiel General License from time to time. Such new
+  versions will be similar in spirit to the present version,
+  but may differ in detail. Each version is given a version
+  number. You may choose to follow the terms of the version
+  under which you received the Program, or any later version.
+
+                  END OF TERMS AND CONDITIONS
+
+ How to Apply These Terms to Your Work
+
+  If you develop a new program, and you want it to be of the
+greatest possible use to the public, the best way to achieve
+this is to make it free software which everyone can redistribute
+and change under these terms.
+
+  To do so, attach the following notices to the program. It is
+safest to attach them to the start of each source file to most
+effectively state the exclusion of warranty; and each file should
+have at least the “copyright” line and a pointer to where the
+full license is found.
+
+    <one line to give the program’s name and a brief idea of what it does.>
+    Copyright (c) <year> <name of author>
+
+    This program is free software; you can redistribute it and/or
+    modify it under the terms of the Mesiel General License
+    as published by the Mesiel Project; either version 1.0 of
+    the License, or (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    Mesiel General License for more details.
+
+    You should have received a copy of the Mesiel General License
+    along with this program.  If not, see <https://mesiel-org.github.io/license.html>.

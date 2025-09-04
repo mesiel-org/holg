@@ -1,0 +1,16 @@
+Usage: holg [OPTIONS] <input-paths>...
+
+Options:
+  -o, --out <FILE>       Output header file (default: holg.h)
+  -i, --impl <MACRO>     Implementation macro guard (default: MESIEL_HOLG)
+  -h, --help             Show this help message and exit
+  -v, --version          Show version information
+
+Description:
+  HOLG collects your headers and sources into a single header-only C/C++ library.
+  It deduplicates includes, strips redundant guards, and ensures C++ compatibility
+  by wrapping implementations with extern "C" when needed.
+
+Examples:
+  holg -o mylib.h -i MYLIB .
+  holg -o mylib.h -i MYLIB ./src

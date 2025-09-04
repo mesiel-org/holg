@@ -1,0 +1,26 @@
+# ============================
+# Mesiel Coding Standards
+# https://mesiel-org.github.io/coding-standard.html
+# ============================
+max_width = 100
+hard_tabs = false
+tab_spaces = 2
+newline_style = "Unix"
+use_field_init_shorthand = true
+reorder_imports = true
+fn_params_layout = "Tall"
+
+# Unstable options – need nightly
+# wrap_comments = true
+# format_code_in_doc_comments = true
+# normalize_doc_attributes = true
+# format_macro_matchers = true
+# format_macro_bodies = true
+# where_single_line = true
+# imports_granularity = "Crate"
+# group_imports = "StdExternalCrate"
+# overflow_delimited_expr = true
+# struct_field_align_threshold = 20
+# enum_discrim_align_threshold = 20
+# brace_style = "AlwaysNextLine"
+# condense_wildcard_suffixes = true

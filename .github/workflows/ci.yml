@@ -1,0 +1,17 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-and-test:
+    name: Build and Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - run: rustup update
+      # test.py will check if the binary exusts
+      # if not it will build and run the tests
+      - run: python3 ci/test.py
